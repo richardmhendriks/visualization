@@ -12,21 +12,42 @@
       ```
       Your answer...
 
+INTRODUCTION. My research entails compiling, analysing and visualizing electricity systems data, much of which is maintained by provincial utilities, electricity independent system operators (ISOs) and government agencies. The quality of electricity systems data can be evaluated in terms of the following criteria, many of which are discussed in the DSI visualization module:
+•	Integrated. Data are integrated and readily transformable between tabular, network, geospatial and multi-dimensional formats;
+•	Temporalized. Data are readily and comprehensively available across temporal (e.g., from decades down to five-minute intervals) and longitudinal (current and historical) scales;
+•	Spatialized. Data are readily and comprehensively available across spatial (e.g. provincially, regionally, transmission, distribution, substation and transformer) and (where appropriate) multi-dimensional (e.g., elevations) scales;
+•	Visualized. Visualizations are pleasing (aesthetical), accurate (substantive) and comprehensible (perceptual), or facilitate user creation of these visual characteristics;
+•	Standardized. Data are standardized in terms of data typing, asset identification, visualization (marks, channels, encodings), etc., to promote reproducibility (i.e., findability, accessibility, interoperability, and reusability);
+•	Customizable. Data are formatted to facilitate customized temporalization (e.g., time and date), spatialization (e.g., regions, substations, voltages), visualization (e.g. chart types), and downloading (e.g., csv, xml, etc.); 
+•	Ethical. Collection, organization, presentation and visualization of data are:
+    o	neutral (e.g., not slanting by selection);
+    o	objective (e.g., no favouritism or prejudice); 
+    o	inclusive (e.g., market coverage);
+    o	exclusive (e.g., market confidentiality);
+    o	sourced (e.g., ownership and IP);
+    o	law-abiding (e.g., laws, regulations, policies);
+    o	transparent (e.g., limitations, conflicts, metadata);  
+•	Accessible. Data are conducive to all three action levels: querying, searching and analyzing by making use of accessibility tools (e.g., colour contrasting, hover data, alt-text)
+•	Contextualized. Data are accompanied with appropriate explanatory information, including context documents, datasheets, glossaries, user guides, frequently asked questions, etc.
+
+For this assignment, I consider the electricity market statistics platforms of Canada’s two largest electricity markets, namely the Alberta Electricity System Operator (AESO) and Ontario’s Independent Electricity System Operator (IESO). 
 
 
-
-
-
-
-      ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
 
+Electricity markets are complex and coupled, and unsurprisingly so are their market statistics platforms. As such, to characterize any individual site as “good” or “bad” would be oversimplifying. Instead, I consider the positive and negative aspects of these two websites in the context of the criteria described above. To improve the visual presentation of my observations (after all, isn’t that the point of this module?!), I present them within a comparison table.
 
+Table 1: Comparative evaluation of the AESO and IESO market statistics platforms
 
+[see attached assignment_2.png]
 
-
+Table notes: 
+Rankings – 5. Outstanding, 4. Successful, 3. Mostly successful, 2. Minimally successful, 1. Not successful
+Sources: 
+AESO. 2025. Annual Market Statistics Report. (https://public.tableau.com/app/profile/market.analytics/viz/AnnualStatistics_16161854228350/Introduction)
+IESO. 2025. Power Data. (https://www.ieso.ca/Power-Data) 
 
       
       ```
